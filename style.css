@@ -1,0 +1,23 @@
+
+    * {
+        font-family:  Arial, Helvetica, sans-serif; /* Definir uma fonte para a página toda */
+    }
+
+    p {
+        color: red;
+        font-family: 'Courier New', Courier, monospace; /* Definir uma font difernete para esse trecho */
+    }
+
+    div {
+
+        height: 200px;
+        color: black;
+
+    }
+
+    p + a {
+
+        font-weight: bold;
+        color: blue;
+
+    }
